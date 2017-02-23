@@ -38,4 +38,4 @@ test-suite elabskl-test
 
 source-repository head
   type:     git
-  location: https://github.com/nicolascarpi/elabskl
+  location: https://github.com/elabftw/elabskl
